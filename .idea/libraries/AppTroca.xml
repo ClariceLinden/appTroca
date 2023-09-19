@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppTroca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppTroca.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
